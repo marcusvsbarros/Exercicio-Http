@@ -1,0 +1,15 @@
+{
+  "name": "exercicio-http-request",
+  "version": "1.0.0",
+  "description": "Exercício de requisições HTTP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
